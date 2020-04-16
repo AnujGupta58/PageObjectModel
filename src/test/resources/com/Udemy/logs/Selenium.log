@@ -1,0 +1,17 @@
+00:48:59,688 DEBUG devpinoyLogger:59 - config properties loaded..
+00:48:59,688 DEBUG devpinoyLogger:74 - object repository  properties loaded..
+00:49:11,330 DEBUG devpinoyLogger:83 - chrome browser is launched
+00:49:35,834 DEBUG devpinoyLogger:143 - Typing in an Element : userName_XPath entered value as : admin@phptravels.com
+00:49:35,967 DEBUG devpinoyLogger:143 - Typing in an Element : password_XPath entered value as : demoadmin
+00:49:36,162 DEBUG devpinoyLogger:128 - Clicking on an Element : loginInbutton_XPath
+00:49:48,236 DEBUG devpinoyLogger:128 - Clicking on an Element : customers_XPath
+00:49:48,518 DEBUG cache:44 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+00:49:48,519 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+00:49:48,521 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+00:49:48,522 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+00:49:48,523 DEBUG cache:44 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Anuj%20Gupta/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+00:49:54,444 DEBUG cache:44 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+00:49:54,445 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+00:49:54,445 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+00:49:54,446 DEBUG cache:44 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+00:49:54,447 DEBUG cache:44 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Anuj%20Gupta/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

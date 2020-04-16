@@ -1,0 +1,7 @@
+17/04/2020 00:48:59 devpinoyLogger config properties loaded..
+17/04/2020 00:48:59 devpinoyLogger object repository  properties loaded..
+17/04/2020 00:49:11 devpinoyLogger chrome browser is launched
+17/04/2020 00:49:35 devpinoyLogger Typing in an Element : userName_XPath entered value as : admin@phptravels.com
+17/04/2020 00:49:35 devpinoyLogger Typing in an Element : password_XPath entered value as : demoadmin
+17/04/2020 00:49:36 devpinoyLogger Clicking on an Element : loginInbutton_XPath
+17/04/2020 00:49:48 devpinoyLogger Clicking on an Element : customers_XPath
