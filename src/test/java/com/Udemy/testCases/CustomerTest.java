@@ -14,7 +14,7 @@ public class CustomerTest extends BaseTest{
 	public void customerTest() {
 		Customers customers = new Customers();
 		String text = customers.getPageText();
-		Assert.assertEquals("abc", text);		
+		Assert.assertEquals("Customers Management", text);		
 		Page.menu.navigateToGeneral(SubMenu.OTHER);
 		System.out.println("here");
 		//dashboard.goToBookings();
